@@ -1,0 +1,45 @@
+.dropdown-menu .divider,
+.option-box .gear-check,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.carousel-indicators .active
+{
+    background: #8808c7;
+}
+.navbar-inverse .navbar-brand span,
+.about h4,
+.review span,
+.subscribe .subscribe-content h3 span,
+.subscribe .subscribe-content p span,
+.contactus .contactus-content .content,
+.contactus .contactus-content input[type="text"],
+.contactus .contactus-content textarea,
+.footer h3,
+.footer .three li:hover,
+.footer .copyright span,
+.carousel-control .glyphicon-chevron-left,
+.carousel-control .icon-prev,
+.carousel-control .glyphicon-chevron-right,
+.carousel-control .icon-next,
+.scroll-up{
+    color: #8808c7;
+}
+
+.statistics .statistics-content .stats:hover{
+    color: #430064;
+}
+.option-box .color-option,
+.team1 .person img,
+.review .carousel-indicators li.active{
+    border-color: #8808c7;
+}
+
+.dropdown-menu{
+    border-top-color: ##8808c7;
+}
+/*Hover css*/
+.hvr-sweep-to-top:before,
+.hvr-bounce-to-right:before,
+.hvr-sweep-to-bottom:before,
+.hvr-bounce-to-left:before{background: rgba(41, 0, 61, 0.77);}

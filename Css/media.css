@@ -1,0 +1,81 @@
+/*Smart phone & Tablet*/
+@media (max-width:767px)
+{
+    
+    .images  img{
+        padding-top: 20px;
+    }
+    .images .text-muted{
+        padding-top: 10px;
+    }
+    .images .col-xs-7 {
+        padding: 0;
+    }
+    .skills button{
+        position: relative;
+        left: 34%;
+        margin-bottom: 15px;
+    }
+    .review{    
+        height: 430px;
+    }
+    .subscribe{
+        height: 500px; 
+    }
+    .subscribe .subscribe-content{
+        height: 500px;
+    }
+    .subscribe .subscribe-content .form-control{
+        width: 340px;
+    }
+    .navbar-inverse .navbar-nav > li > a {
+    color: #b0b0b0;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 16px;
+    }
+    .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    font-size: 17px;
+    min-height: 33px;
+    }
+}
+
+/*small Screen*/
+@media (min-width:768px) and (max-width:991px)
+{
+    .images div.img p{
+        left:75px;
+    }
+    .images  img{
+        padding-top: 20px;
+    }
+    .images .text-muted{
+        padding-top: 20px;
+        font-size: 25px;
+    }
+   
+    
+}
+
+/*meduim Screen*/
+@media (min-width:992px) and (max-width:1199px)
+{
+    .images div.img p{
+        left:75px;
+    }
+    .images  img{
+        padding-top: 20px;
+    }
+    .images .text-muted{
+        padding-top: 20px;
+        font-size: 30px;
+    }
+   
+    
+}
+
+/*Large Screen*/
+@media (min-width:1200px)
+{
+    
+}
